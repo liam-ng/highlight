@@ -12,6 +12,7 @@ Technical / Business Outcome
 ### Azure Cloud Overview
 ![FA-architecture-20210806v1](https://github.com/liam-ng/highlight/assets/90180576/2971ade9-f003-4285-b7fb-7dcc2d2688af)
 
+<!---
 ### Load Balancing
 <img src="https://github.com/liam-ng/highlight/assets/90180576/755c5afd-183a-41a5-b494-dd970fab5642" width="50%">
 
@@ -22,7 +23,7 @@ Technical / Business Outcome
 Branching Strategy
 
 <img src="https://github.com/liam-ng/highlight/assets/90180576/449a229e-d87d-4ec6-b95e-4de2d005bfd4" width="30%">
-
+--->
 
 ## Azure Landing Zone
 
